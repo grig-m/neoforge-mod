@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="installer.welcome.version">Версия: </entry>
+    <entry key="installer.welcome.offline">Режим офлайн</entry>
+    <entry key="installer.welcome.target.tooltip">Путь к директории установки Minecraft</entry>
+    <entry key="installer.welcome.dirselect.tooltip">Выберите альтернативную директорию Minecraft</entry>
+    <entry key="installer.button.proceed">Продолжить</entry>
+    <entry key="installer.button.cancel">Отмена</entry>
+    <entry key="installer.action.install.client.name">Установить клиент</entry>
+    <entry key="installer.action.install.client.tooltip">Установить новый профиль в лаунчер minecraft</entry>
+    <entry key="installer.action.install.client.finished.withoutlibs">Профиль клиента %s для версии %s успешно установлен в лаунчер</entry>
+    <entry key="installer.action.install.client.finished.withlibs">Профиль клиента %s для версии %s успешно установлен в лаунчер, и скачано %d библиотек</entry>
+    <entry key="installer.action.install.server.name">Установить сервер</entry>
+    <entry key="installer.action.install.server.tooltip">Создать новую установку сервера с модами</entry>
+    <entry key="installer.action.install.server.finished.withoutlibs">Успешно скачан сервер minecraft и установлен %s</entry>
+    <entry key="installer.action.install.server.finished.withlibs">Успешно скачан сервер minecraft, загружено %d библиотек и установлен %s</entry>
+    <entry key="installer.action.install.fat.name">Создать "толстый" установщик</entry>
+    <entry key="installer.action.install.fat.tooltip">Создать установщик, который собирает скачанные библиотеки, для возможного использования в офлайн режиме</entry>
+    <entry key="installer.action.install.fat.finished">Успешно создан "толстый" установщик для версии %s</entry>
+    <entry key="installer.action.extract.name">Извлечь</entry>
+    <entry key="installer.action.extract.tooltip">Извлечь содержащийся jar файл</entry>
+    <entry key="installer.action.extract.finished">Успешно извлечено</entry>
+    <entry key="installer.window.title">Установщик %s</entry>
+    <entry key="installer.frame.installing">Установка %s версии %s</entry>
+    <entry key="installer.installation.complete">Установка завершена</entry>
+    <entry key="installer.installation.cancelled">Установка отменена</entry>
+    <entry key="installer.target.error.notdirectory">Указанный путь должен быть директорией</entry>
+    <entry key="installer.target.error.directory.notempty">В целевой директории уже есть файлы</entry>
+    <entry key="installer.target.error.directory.doesntexist.critical">Указанная директория не существует</entry>
+    <entry key="installer.target.error.directory.doesntexist.create">Указанная директория не существует&lt;br&gt;Она будет создана</entry>
+    <entry key="installer.target.error.missingprofile">В директории отсутствует профиль. Пожалуйста, сначала запустите лаунчер Minecraft</entry>
+    <entry key="installer.fat.includemc">Включать jar файлы Minecraft</entry>
+    <entry key="installer.fat.includemc.tooltip">&lt;html&gt;Включить JAR-файлы Minecraft. &lt;br&gt; Итоговый JAR-файл будет содержать серверные и клиентские JAR-файлы Minecraft, которые защищены лицензией All Rights Reserved. &lt;br&gt; &lt;b&gt; Распространение полных установщиков незаконно.&lt;/b&gt;&lt;/html&gt;</entry>
+    <entry key="installer.fat.includemc.warning">Полученный JAR-файл будет включать серверные и клиентские JAR-файлы Minecraft, которые имеют лицензию «Все права защищены». Распространение такого файла будет считаться незаконным.</entry>
+    <entry key="installer.fat.includemclibs">Включать библиотеки Minecraft</entry>
+    <entry key="installer.fat.includemclibs.tooltip">Включать библиотеки, используемые Minecraft</entry>
+    <entry key="installer.fat.includeinstallerlibs">Включать программы установщика</entry>
+    <entry key="installer.fat.includeinstallerlibs.tooltip">Включить библиотеки, используемые установщиком</entry>
+    <entry key="installer.fat.offline">Офлайн установщик</entry>
+    <entry key="installer.fat.offline.tooltip">&lt;html&gt;Создайте установщик, который можно запустить без подключения к интернету.&lt;br&gt; Офлайн-установщик будет включать серверные и клиентские JAR-файлы Minecraft, которые защищены лицензией All Rights Reserved. &lt;br&gt; &lt;b&gt; Распространение офлайн-установщика незаконно.&lt;/b&gt;&lt;/html&gt;</entry>
+</properties>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="installer.welcome.version">버전: </entry>
+    <entry key="installer.welcome.offline">오프라인 모드</entry>
+    <entry key="installer.welcome.target.tooltip">마인크래프트 설치 경로</entry>
+    <entry key="installer.welcome.dirselect.tooltip">마인크래프트 설치 경로 변경하기</entry>
+    <entry key="installer.button.proceed">설치</entry>
+    <entry key="installer.button.cancel">취소</entry>
+    <entry key="installer.action.install.client.name">클라이언트 설치</entry>
+    <entry key="installer.action.install.client.tooltip">네오포지를 마인크래프트 클라이언트에 설치합니다. 그 과정에서 새로운 프로필을 생성합니다</entry>
+    <entry key="installer.action.install.client.finished.withoutlibs">성공적으로 %2$s 클라이언트를 설치했고, %1$s 프로필을 생성했습니다</entry>
+    <entry key="installer.action.install.client.finished.withlibs">성공적으로 %2$s 클라이언트와 필수 라이브러리 %3$d개를 설치했고, %1$s 프로필을 생성했습니다</entry>
+    <entry key="installer.action.install.server.name">서버 설치</entry>
+    <entry key="installer.action.install.server.tooltip">새로운 모드 서버를 생성합니다</entry>
+    <entry key="installer.action.install.server.finished.withoutlibs">성공적으로 %s 서버를 설치했습니다</entry>
+    <entry key="installer.action.install.server.finished.withlibs">성공적으로 %2$s 서버와 필수 라이브러리 %1$d개를 설치했습니다</entry>
+    <entry key="installer.action.install.fat.name">오프라인 설치기 만들기</entry>
+    <entry key="installer.action.install.fat.tooltip">설치에 필요한 모든 라이브러리들을 미리 포함하여 인터넷 없이도 사용 가능한 설치기를 만듭니다</entry>
+    <entry key="installer.action.install.fat.finished">성공적으로 %s 오프라인 설치기를 생성했습니다</entry>
+    <entry key="installer.action.extract.name">압축 해제</entry>
+    <entry key="installer.action.extract.tooltip">포함된 jar 파일을 압축 해제합니다</entry>
+    <entry key="installer.action.extract.finished">성공적으로 압축 해제했습니다</entry>
+    <entry key="installer.window.title">%s 설치기</entry>
+    <entry key="installer.frame.installing"> %2$s 설치중</entry>
+    <entry key="installer.installation.complete">설치 완료</entry>
+    <entry key="installer.installation.cancelled">설치 취소됨</entry>
+    <entry key="installer.target.error.notdirectory">지정된 경로는 디렉터리여야 합니다</entry>
+    <entry key="installer.target.error.directory.notempty">지정된 디렉터리가 비어있지 않습니다</entry>
+    <entry key="installer.target.error.directory.doesntexist.critical">지정된 디렉터리는 존재하지 않습니다</entry>
+    <entry key="installer.target.error.directory.doesntexist.create">지정된 디렉터리는 존재하지 않습니다&lt;br&gt;설치시 자동으로 생성합니다</entry>
+    <entry key="installer.target.error.missingprofile">지정된 디렉터리에 마인크래프트 런처 프로필이 없습니다. 먼저 마인크래프트 런처를 실행해 주세요</entry>
+    <entry key="installer.fat.includemc">마인크래프트 jar 파일 포함하기</entry>
+    <entry key="installer.fat.includemc.tooltip">&lt;html&gt;마인크래프트 jar 파일 포함하기. &lt;br&gt; 모장이 소유하는 마인크래프트 서버 및 클라이언트 jar 파일을 설치기에 포함합니다. &lt;br&gt; &lt;b&gt; 출력된 파일을 재배포하는 것은 불법입니다.&lt;/b&gt;&lt;/html&gt;</entry>
+    <entry key="installer.fat.includemc.warning">모장이 소유하는 마인크래프트 서버 및 클라이언트 jar 파일을 설치기에 포함합니다. 출력된 파일을 재배포하는 것은 불법입니다.</entry>
+    <entry key="installer.fat.includemclibs">마인크래프트 라이브러리 포함하기</entry>
+    <entry key="installer.fat.includemclibs.tooltip">마인크래프트가 사용하는 라이브러리들을 설치기에 포함합니다</entry>
+    <entry key="installer.fat.includeinstallerlibs">설치기 라이브러리 포함하기</entry>
+    <entry key="installer.fat.includeinstallerlibs.tooltip">네오포지 설치기가 자체적으로 사용하는 라이브러리들을 포함합니다</entry>
+    <entry key="installer.fat.offline">오프라인 설치기</entry>
+    <entry key="installer.fat.offline.tooltip">&lt;html&gt;인터넷 연결 없이 사용 가능한 네오포지 설치기를 생성합니다.&lt;br&gt; 오프라인 설치기는 모장이 소유하는 마인크래프트 서버 및 클라이언트 jar 파일을 포함하며, &lt;br&gt; &lt;b&gt; 출력된 파일을 재배포하는 것은 불법입니다.&lt;/b&gt;&lt;/html&gt;</entry>
+</properties>

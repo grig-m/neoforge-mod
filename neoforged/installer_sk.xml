@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="installer.welcome.version">Verzia: </entry>
+    <entry key="installer.welcome.offline">Offline mód</entry>
+    <entry key="installer.welcome.target.tooltip">Cesta k inštalačnému priečinku Minecraft</entry>
+    <entry key="installer.welcome.dirselect.tooltip">Vybrať alternatívny Minecraft priečinok</entry>
+    <entry key="installer.button.proceed">Pokračovať</entry>
+    <entry key="installer.button.cancel">Zrušiť</entry>
+    <entry key="installer.action.install.client.name">Nainštalovať pre klienta</entry>
+    <entry key="installer.action.install.client.tooltip">Nainštalujte nový profile do Mojang klientského spúšťača</entry>
+    <entry key="installer.action.install.client.finished.withoutlibs">Úspešne nainštalovaný klientský %s profil pre verziu %s do spúšťača</entry>
+    <entry key="installer.action.install.client.finished.withlibs">Úspešne nainštalovaný klientský %s profil pre verziu %s do spúšťača, a stiahnutých %d knižníc</entry>
+    <entry key="installer.action.install.server.name">Nainštalovať pre server</entry>
+    <entry key="installer.action.install.server.tooltip">Vytvoriť novú módovanú inštaláciu serveru</entry>
+    <entry key="installer.action.install.server.finished.withoutlibs">Úspešne stiahnutý minecraft server a nainštalovaný %s</entry>
+    <entry key="installer.action.install.server.finished.withlibs">Úspešne stiahnutý minecraft server, stiahnuté %d knižnice a nainštalované %s</entry>
+    <entry key="installer.action.install.fat.name">Vytvoriť inštalátor pre „fat“</entry>
+    <entry key="installer.action.install.fat.tooltip">Vytvoriť inštalátor ktorý uloží stiahnuté knižnice, pre neskoršie offline použitie</entry>
+    <entry key="installer.action.install.fat.finished">Úspešne vytvorený „fat“ inštalátor pre verziu %s</entry>
+    <entry key="installer.action.extract.name">Vyňať</entry>
+    <entry key="installer.action.extract.tooltip">Vyňať obsiahnutý jar súbor</entry>
+    <entry key="installer.action.extract.finished">Úspešne vyňaté</entry>
+    <entry key="installer.window.title">%s Inštalátor</entry>
+    <entry key="installer.frame.installing">Inštalácia %s verzie %s</entry>
+    <entry key="installer.installation.complete">Inštalácia dokončená</entry>
+    <entry key="installer.installation.cancelled">Inštalácia zrušená</entry>
+    <entry key="installer.target.error.notdirectory">Daná cesta musí viesť do priečinku</entry>
+    <entry key="installer.target.error.directory.notempty">V cieľovom priečinku sa už nachádzajú súbory</entry>
+    <entry key="installer.target.error.directory.doesntexist.critical">Vybraný priečinok neexistuje</entry>
+    <entry key="installer.target.error.directory.doesntexist.create">Vybraný priečinok neexistuje &lt;br&gt; Bude vytvorený</entry>
+    <entry key="installer.target.error.missingprofile">Priečinok neobsahuje profil spúšťača. Prosím najprv spustite Minecraft spúšťač</entry>
+    <entry key="installer.fat.includemc">Zahrnúť Minecraft .jar súbory</entry>
+    <entry key="installer.fat.includemc.tooltip">&lt;html&gt; Zahrnúť Minecraft .jar súbory. &lt;br&gt; Výsledný .jar súbor bude zahŕňať serverové a klientské Minecraft .jar súbory, ktoré sú licencované ako „Všetky Práva Rezervované“ &lt;br&gt; &lt;b&gt; Redistribúcia „fat“ inštalátoru je nelegálna.&lt;/html&gt;</entry>
+    <entry key="installer.fat.includemc.warning">Výsledný .jar súbor bude zahŕňať serverové a klientské Minecraft .jar súbory, ktoré sú licencované ako „Všetky Práva Rezervované“. Redistribúcia „fat“ inštalátoru je nelegálna.</entry>
+    <entry key="installer.fat.includemclibs">Zahrnúť Minecraft knižnice</entry>
+    <entry key="installer.fat.includemclibs.tooltip">Zahrnúť knižnice používané Minecraftom</entry>
+    <entry key="installer.fat.includeinstallerlibs">Zahrnúť knižnice inštalátora</entry>
+    <entry key="installer.fat.includeinstallerlibs.tooltip">Zahrnúť knižnice používané inštalátorom</entry>
+    <entry key="installer.fat.offline">Offline inštalátor</entry>
+    <entry key="installer.fat.offline.tooltip">&lt;html&gt; Vytvoriť inštalátor ktorý funguje bez internetového pripojenia. &lt;br&gt; Offline inštalátor bude zahŕňať serverové a klientské Minecraft .jar súbory, ktoré sú licencované ako „Všetky Práva Rezervované“ &lt;br&gt; &lt;b&gt; Redistribúcia offline inštalátoru je nelegálna.&lt;/html&gt;</entry>
+</properties>

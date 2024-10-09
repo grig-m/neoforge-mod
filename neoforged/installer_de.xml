@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="installer.welcome.version">Version: </entry>
+    <entry key="installer.welcome.offline">Offline Modus</entry>
+    <entry key="installer.welcome.target.tooltip">Pfad zum Minecraft-Installationsverzeichnis</entry>
+    <entry key="installer.welcome.dirselect.tooltip">Wähle ein alternatives Minecraft-Verzeichnis</entry>
+    <entry key="installer.button.proceed">Fortfahren</entry>
+    <entry key="installer.button.cancel">Abbrechen</entry>
+    <entry key="installer.action.install.client.name">Client installieren</entry>
+    <entry key="installer.action.install.client.tooltip">Installiere ein neues Profil für den Mojang-Client Launcher</entry>
+    <entry key="installer.action.install.client.finished.withoutlibs">Client-Profil %s für Version %s erfolgreich im Launcher installiert</entry>
+    <entry key="installer.action.install.client.finished.withlibs">Client-Profil %s für Version %s erfolgreich im Launcher installiert und %d Bibliotheken heruntergeladen</entry>
+    <entry key="installer.action.install.server.name">Server installieren</entry>
+    <entry key="installer.action.install.server.tooltip">Erstelle eine neue modifizierte Serverinstallation</entry>
+    <entry key="installer.action.install.server.finished.withoutlibs">Minecraft-Server erfolgreich heruntergeladen und %s installiert</entry>
+    <entry key="installer.action.install.server.finished.withlibs">Minecraft-Server erfolgreich heruntergeladen, %d Bibliotheken heruntergeladen und %s installiert</entry>
+    <entry key="installer.action.install.fat.name">Erstelle Fat Installer</entry>
+    <entry key="installer.action.install.fat.tooltip">Erstelle einen Installer, der heruntergeladene Bibliotheken für die spätere Offline-Nutzung packt</entry>
+    <entry key="installer.action.install.fat.finished">Erfolgreich einen Fat Installer für die Version %s angelegt</entry>
+    <entry key="installer.action.extract.name">Entpacken</entry>
+    <entry key="installer.action.extract.tooltip">Entpacken der enthaltenen jar-Datei</entry>
+    <entry key="installer.action.extract.finished">Entpacken erfolgreich</entry>
+    <entry key="installer.window.title">%s Installation</entry>
+    <entry key="installer.frame.installing">Installiere %s Version %s</entry>
+    <entry key="installer.installation.complete">Installation abgeschlossen</entry>
+    <entry key="installer.installation.cancelled">Installation abgebrochen</entry>
+    <entry key="installer.target.error.notdirectory">Der angegebene Pfad muss ein Verzeichnis sein</entry>
+    <entry key="installer.target.error.directory.notempty">Es befinden sich bereits Dateien im Zielverzeichnis</entry>
+    <entry key="installer.target.error.directory.doesntexist.critical">Das angegebene Verzeichnis existiert nicht</entry>
+    <entry key="installer.target.error.directory.doesntexist.create">Das angegebene Verzeichnis existiert nicht&lt;br&gt;Es wird erstellt</entry>
+    <entry key="installer.target.error.missingprofile">Im Verzeichnis fehlt ein Launcher-Profil. Bitte starte zuerst den Minecraft Launcher</entry>
+    <entry key="installer.fat.includemc">Minecraft jars inkludieren</entry>
+    <entry key="installer.fat.includemc.tooltip">&lt;html&gt;Minecraft-Jars einfügen. &lt;br&gt; Die erstellte jar-Datei wird die Minecraft-Jars des Clients und Servers beinhalten, welche unter Alle Rechte vorbehalten lizenziert sind. &lt;br&gt; &lt;b&gt; Die Veröffentlichung des Fat-Installers ist illegal.&lt;/b&gt;&lt;/html&gt;</entry>
+    <entry key="installer.fat.includemc.warning">Die erstellte jar-Datei wird die Minecraft-Jars des Clients und Servers beinhalten, welche unter Alle Rechte vorbehalten lizenziert sind. Die Veröffentlichung des Fat-Installers ist illegal.</entry>
+    <entry key="installer.fat.includemclibs">Minecraft-Bibliotheken einfügen</entry>
+    <entry key="installer.fat.includemclibs.tooltip">Bibliotheken einfügen, die von Minecraft verwendet werden</entry>
+    <entry key="installer.fat.includeinstallerlibs">Installations-Bibliotheken einfügen</entry>
+    <entry key="installer.fat.includeinstallerlibs.tooltip">Bibliotheken einfügen, die vom Installationsprogramm verwendet werden</entry>
+    <entry key="installer.fat.offline">Offline Installer</entry>
+    <entry key="installer.fat.offline.tooltip">&lt;html&gt;Ein Installisierungsprogramm erstellen, welches ohne Internetverbindung funktioniert.&lt;br&gt; Das Offline-Installisierungsprogramm wird die Minecraft-Jars des Clients und Servers beinhalten, welche unter Alle Rechte vorbehalten lizenziert sind. &lt;br&gt; &lt;b&gt; Die Veröffentlichung des Offline-Installisierungsprogramms ist illegal.&lt;/b&gt;&lt;/html&gt;</entry>
+</properties>
